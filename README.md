@@ -59,7 +59,7 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
   Playwright | Selenium 
   ---|---
-  ![]() | ![]() 
+  ![](https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-plain.svg) 
   
   
 - Backend:
