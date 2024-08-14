@@ -50,8 +50,8 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
     
 - Embeded Systems:  , .
 
-  8051 ASSEMBLY LANGUAGE | Android Internet of Things Development 
-  ---|---
+  Android Internet of Things Development 
+  ---|
   ![](https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg) 
 
 #### Test Stack:
