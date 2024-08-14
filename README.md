@@ -46,27 +46,27 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
   Git | Docker | C# | Java | Kotlin | Python | Go |  SQL | SQLite | Postgress | Bash | Powershell
   ---|---|---|---|---|---|---|---|---|---|---|---
-  !()[] | !()[] | !()[] | !()[] | !()[] | !()[] | !()[] |  !()[] | !()[] | !()[] | !()[] | !()[]
+  ![](https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg) | ![]() | ![]() | ![]() | ![]() | ![]() |  ![]() | ![]() | ![]() | ![]() | ![]()
     
 - Embeded Systems:  , .
 
   8051 ASSEMBLY LANGUAGE | Android Internet of Things Development 
   ---|---
-  !()[] | !()[] 
+  ![]() | ![]() 
 
 #### Test Stack:
 - Frontend:
 
   Playwright | Selenium 
   ---|---
-  !()[] | !()[] 
+  ![]() | ![]() 
   
   
 - Backend:
 
   Jbehave | Junit | pytest | Allure 
   ---|---|---|---
-  !()[] | !()[] | !()[] | !()[] 
+  ![]() | !()[] | !()[] | !()[] 
   
 
 #### OS Stack:
