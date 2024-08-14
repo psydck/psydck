@@ -59,14 +59,14 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
   Playwright | Selenium 
   ---|---
-  ![](https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-plain.svg) 
+  ![](https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg) 
   
   
 - Backend:
 
   Jbehave | Junit | pytest | Allure 
   ---|---|---|---
-  ![](https://github.com/devicons/devicon/blob/master/icons/jbehave/jbehave-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg) | ![](https://allurereport.org/assets/logo_header.d16b5587.png) 
+  ![](https://jbehave.org/images/jbehave-logo.png) | ![](https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg) | ![](https://allurereport.org/assets/logo_header.d16b5587.png) 
   
 
 #### OS Stack:
