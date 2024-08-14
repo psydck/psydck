@@ -37,6 +37,7 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
 #### Software Stack:
 - Frontend:
+  
  Microsoft ASP.NET | HTML | CSS | JavaScript | Selvete | Android |
 ---|---|---|---|---|---
 ![](https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)
