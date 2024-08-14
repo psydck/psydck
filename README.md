@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sizwe I. Mkhonza
+  - 📫 How to reach me ...  sizwe.i.mkhonza@gmail.com | https://www.linkedin.com/in/sir-afrika/
+
 - 👀 I’m interested in ... computer system's engineering
   
 - ⚡ The Evolution of My Coding Journey:
@@ -45,9 +47,6 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 ### Here are some of my projects:
 - [TillPoint](https://github.com/wastedMynd/Tillr2) : Mobile application that allows users to manage point of sale transactions;
   it's intended to be quick and easy to use; this is achieved by incorporating Android's intuitive Material Design GUI Components.
-
-
-- 📫 How to reach me ...  sizwe.i.mkhonza@gmail.com | https://www.linkedin.com/in/sir-afrika/
   
 <!---
 psydck/psydck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
