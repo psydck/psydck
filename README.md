@@ -37,20 +37,43 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
 #### Software Stack:
 - Frontend:
+
+  Microsoft ASP.NET | HTML | CSS | JavaScript | Selvete | Android |
+  ---|---|---|---|---|---
+  ![](https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)
   
- Microsoft ASP.NET | HTML | CSS | JavaScript | Selvete | Android |
----|---|---|---|---|---
-![](https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)
-  
-- Backend: Git, Docker, C# | Java (*Kotlin*) | Python | Go ,  SQL | SQLite | Postgress , and Bash | Powershell.
-- Embeded Systems: 8051 ASSEMBLY LANGUAGE , Android Internet of Things Development.
+- Backend:
+
+  Git | Docker | C# | Java | Kotlin | Python | Go |  SQL | SQLite | Postgress | Bash | Powershell
+  ---|---|---|---|---|---|---|---|---|---|---|---
+  !()[] | !()[] | !()[] | !()[] | !()[] | !()[] | !()[] |  !()[] | !()[] | !()[] | !()[] | !()[]
+    
+- Embeded Systems:  , .
+
+  8051 ASSEMBLY LANGUAGE | Android Internet of Things Development 
+  ---|---
+  !()[] | !()[] 
 
 #### Test Stack:
-- Frontend: Playwright, and Selenium
-- Backend, Jbehave, Junit, pytest, Allure
+- Frontend:
+
+  Playwright | Selenium 
+  ---|---
+  !()[] | !()[] 
+  
+  
+- Backend:
+
+  Jbehave | Junit | pytest | Allure 
+  ---|---|---|---
+  !()[] | !()[] | !()[] | !()[] 
+  
 
 #### OS Stack:
-- Linix[Ubuntu], Windows, Windows Server, IOs
+
+  Ubuntu | Windows | Windows Server | IOs 
+  ---|---|---|---
+  !()[] | !()[] | !()[] | !()[] 
 
 ### Here are some of my projects:
 - [TillPoint](https://github.com/wastedMynd/Tillr2) : Mobile application that allows users to manage point of sale transactions;
