@@ -73,7 +73,7 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
   Ubuntu | Windows & Windows Server | IOs 
   |------|--------------------------|----|
-  ![](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) 
+  ![](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) 
 
 ### Here are some of my projects:
 - [TillPoint](https://github.com/wastedMynd/Tillr2) : Mobile application that allows users to manage point of sale transactions;
