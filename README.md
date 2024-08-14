@@ -73,7 +73,7 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
   Ubuntu | Windows | Windows Server | IOs 
   ---|---|---|---
-  ![]() | ![]() | ![]() | ![]() 
+  ![](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/windows/windows-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/windows/windows-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/ios/ios-plain.svg) 
 
 ### Here are some of my projects:
 - [TillPoint](https://github.com/wastedMynd/Tillr2) : Mobile application that allows users to manage point of sale transactions;
