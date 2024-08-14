@@ -47,12 +47,6 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
   Git | Docker | C# | Java | Kotlin | Python | Go | SQLite | Postgress | Bash | Powershell
   ---|---|---|---|---|---|---|---|---|---|---
   ![](https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg)
-    
-- Embeded Systems:  , .
-
-  Android Internet of Things Development 
-  ---|
-  ![](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg) 
 
 #### Test Stack:
 - Frontend:
