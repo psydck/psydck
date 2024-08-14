@@ -66,14 +66,14 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
   Jbehave | Junit | pytest | Allure 
   ---|---|---|---
-  ![](https://github.com/devicons/devicon/blob/master/icons/jbehave/jbehave-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/allure/allure-plain.svg) 
+  ![](https://github.com/devicons/devicon/blob/master/icons/jbehave/jbehave-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/allure/allure-plain.svg) 
   
 
 #### OS Stack:
 
   Ubuntu | Windows & Windows Server | IOs 
   ---|---|---
-  ![](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) 
+  ![](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg) 
 
 ### Here are some of my projects:
 - [TillPoint](https://github.com/wastedMynd/Tillr2) : Mobile application that allows users to manage point of sale transactions;
