@@ -44,9 +44,9 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
   
 - Backend:
 
-  Git | Docker | C# | Java | Kotlin | Python | Go |  SQL | SQLite | Postgress | Bash | Powershell
-  ---|---|---|---|---|---|---|---|---|---|---|---
-  ![](https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg) |  ![](https://github.com/devicons/devicon/blob/master/icons/sql/sql-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg)
+  Git | Docker | C# | Java | Kotlin | Python | Go | SQLite | Postgress | Bash | Powershell
+  ---|---|---|---|---|---|---|---|---|---|---
+  ![](https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg)
     
 - Embeded Systems:  , .
 
