@@ -40,7 +40,7 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 - Backend: Git, Docker, C# | Java (*Kotlin*) | Python | Go ,  SQL | SQLite | Postgress , and Bash | Powershell.
 - Embeded Systems: 8051 ASSEMBLY LANGUAGE , Android Internet of Things Development.
 
-### Testing Stack:
+### Test Stack:
 - Frontend: Playwright, and Selenium
 - Backend, Jbehave, Junit, pytest, Allure 
 
