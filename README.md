@@ -7,7 +7,7 @@ As I gained confidence, I ventured into the world of web development with `Micro
 
 However, I soon felt constrained by being tied to a single language and sought to explore other domains.
 My curiosity in mobile app development led me to `Java`, where I discovered `Android` and learned its ins and outs alongside Java programming.
-The similarity between Java and `C#` was like finding a long-lost sibling!
+The similarity between Java and C# was like finding a long-lost sibling!
 
 My computing background should have started with `Assembly Code`, but instead, I took a Digital Systems Fundamentals course that introduced me to transistors, logic gates, and integrated circuits (IC).
 This foundation led me to learn Assembly, which initially seemed daunting due to its procedural nature and lack of object-oriented programming (OOP) paradigm.
@@ -15,7 +15,44 @@ After overcoming the initial challenges, I successfully applied my knowledge and
 As I continued developing mobile apps, I encountered issues with inherent bugs that caused unexpected crashes. 
 To overcome these obstacles, I delved into debugging strategies like `unit testing` and `test automation` to ensure my code was robust and reliable.
 
-Here are some of my projects:
+### Here are skills:
+1. FrontEnd  (Software Development)
+- Website, API's and Databases
+
+2. BackEnd (Software Development)
+- Software Analysis with UML (Unified Modeling Language )
+- Test Automation, Debuging, Maintaince and Trouble Shooting of New and Legacy Code
+- Continous Integration and Deployment
+- Windows Software Development; Console and Forms application
+- Operating Systems: Linux (Unix),  and Windows (Configaration, Scripting)
+- Android Application development with Fire base 
+
+3. Networking
+- Cisco Network Preparatory Technology ( Routers , Switches and Wifi ) configuration and setup
+
+4. Electronics
+- Maintaining and Trouble Shooting Electronic Circuits
+- IoT (Internet Of Things)  device development :  with platforms like Android things and Visual Studio windows IoT.
+- Developing software for Micro controlled Devices like; Traffic lights, Household Security Alarms and etc... using native Assembly Code
+
+### Software Stack:
+- Microsoft ASP.NET ,
+- C# ,
+- HTML - CSS and JavaScript ,
+- Selvete ,
+- SQL and SQLite ,
+- Docker ,
+- Java (*Kotlin*) ,
+- Python ,
+- Bash ,
+- Powershell,
+- 8051 ASSEMBLY LANGUAGE ,
+- Android Internet of Things Development ,
+- Bamboo ,
+- Jira ,
+- Trello.
+
+### Here are some of my projects:
 - [TillPoint](https://github.com/wastedMynd/Tillr2) : Mobile application that allows users to manage point of sale transactions;
   it's intended to be quick and easy to use; this is achieved by incorporating Android's intuitive Material Design GUI Components.
 
