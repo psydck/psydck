@@ -66,7 +66,7 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 
   Jbehave | Junit | pytest | Allure 
   ---|---|---|---
-  ![](https://github.com/devicons/devicon/blob/master/icons/jbehave/jbehave-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/allure/allure-plain.svg) 
+  ![](https://github.com/devicons/devicon/blob/master/icons/jbehave/jbehave-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain.svg) | ![](https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg) | ![](https://allurereport.org/assets/logo_header.d16b5587.png) 
   
 
 #### OS Stack:
