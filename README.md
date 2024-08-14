@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sizwe I. Mkhonza
+- 👋 Hi, I’m Sizwe
   - 📫 How to reach me ...  sizwe.i.mkhonza@gmail.com | https://www.linkedin.com/in/sir-afrika/
 
 - 👀 I’m interested in ... computer system's engineering
