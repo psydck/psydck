@@ -51,7 +51,7 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 - Embeded Systems:  , .
 
   Android Internet of Things Development 
-  ---|---
+  ---|
   ![](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg) 
 
 #### Test Stack:
