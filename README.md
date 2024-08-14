@@ -15,10 +15,9 @@ After overcoming the initial challenges, I successfully applied my knowledge and
 As I continued developing mobile apps, I encountered issues with inherent bugs that caused unexpected crashes. 
 To overcome these obstacles, I delved into debugging strategies like `unit testing` and `test automation` to ensure my code was robust and reliable.
 
-### Here are skills:
+### Here are my skills:
 1. FrontEnd  (Software Development)
 - Website, API's and Databases
-
 2. BackEnd (Software Development)
 - Software Analysis with UML (Unified Modeling Language )
 - Test Automation, Debuging, Maintaince and Trouble Shooting of New and Legacy Code
@@ -26,31 +25,22 @@ To overcome these obstacles, I delved into debugging strategies like `unit testi
 - Windows Software Development; Console and Forms application
 - Operating Systems: Linux (Unix),  and Windows (Configaration, Scripting)
 - Android Application development with Fire base 
-
 3. Networking
 - Cisco Network Preparatory Technology ( Routers , Switches and Wifi ) configuration and setup
-
 4. Electronics
 - Maintaining and Trouble Shooting Electronic Circuits
 - IoT (Internet Of Things)  device development :  with platforms like Android things and Visual Studio windows IoT.
 - Developing software for Micro controlled Devices like; Traffic lights, Household Security Alarms and etc... using native Assembly Code
+5. Agile software development Soft skills: Bamboo , Jira , and Trello.
 
 ### Software Stack:
-- Microsoft ASP.NET ,
-- C# ,
-- HTML - CSS and JavaScript ,
-- Selvete ,
-- SQL and SQLite ,
-- Docker ,
-- Java (*Kotlin*) ,
-- Python ,
-- Bash ,
-- Powershell,
-- 8051 ASSEMBLY LANGUAGE ,
-- Android Internet of Things Development ,
-- Bamboo ,
-- Jira ,
-- Trello.
+- Frontend: Microsoft ASP.NET ,  HTML - CSS and JavaScript , and Selvete.
+- Backend: Git, Docker, C# | Java (*Kotlin*) | Python | Go ,  SQL | SQLite | Postgress , and Bash | Powershell.
+- Embeded Systems: 8051 ASSEMBLY LANGUAGE , Android Internet of Things Development.
+
+### Testing Stack:
+- Frontend: Playwright, and Selenium
+- Backend, Jbehave, Junit, pytest, Allure 
 
 ### Here are some of my projects:
 - [TillPoint](https://github.com/wastedMynd/Tillr2) : Mobile application that allows users to manage point of sale transactions;
