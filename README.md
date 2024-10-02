@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sizwe
   - 📫 How to reach me ...  sizwe.i.mkhonza@gmail.com | https://www.linkedin.com/in/sir-afrika/
+  - Other links ... https://github.com/wastedmynd
 
 - 👀 I’m interested in ... computer system's engineering
   
